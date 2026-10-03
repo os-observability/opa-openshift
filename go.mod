@@ -9,7 +9,7 @@ require (
 	github.com/metalmatze/signal v0.0.0-20210307161603-1c9aa721a97a
 	github.com/oklog/run v1.2.0
 	github.com/open-policy-agent/opa v1.18.1
-	github.com/openshift/api v0.0.0-20260629123346-784126000268 // release-4.22
+	github.com/openshift/api f8795cdde518 // release-4.22
 	github.com/openshift/client-go v0.0.0-20260629081241-b769428f4111 // release-4.22
 	github.com/openshift/telemeter v0.0.0-20260508095353-c2ffb0a7035e // release-4.22
 	github.com/prometheus/client_golang v1.23.2
