@@ -1,4 +1,4 @@
-FROM golang:1.26.4-alpine3.24 as builder
+FROM golang:1.27.1-alpine3.24 as builder
 
 RUN apk add --update --no-cache ca-certificates tzdata git make bash && update-ca-certificates
 
